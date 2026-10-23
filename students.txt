@@ -1,5 +1,8 @@
 
-101,Alice Smith,3.85,Computer Science
-102,Bob Jones,2.90,Mechanical Engineering
-103,Charlie Brown,3.40,Data Science
-104,Diana Prince,3.95,Computer Science
+
+ID       Names          GPA        Majors 
+101 , Alice Smith , 3.85 , Computer Science 
+102 , Bob Jones , 2.90 , Mechanical Engineering 
+103, Charlie Brown , 3.40 , Data Science 
+104, Diana Prince , 3.95 , Computer Science
+

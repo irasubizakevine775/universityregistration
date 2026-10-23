@@ -1,4 +1,3 @@
-
 public class Student {
 
     private int id;
@@ -31,6 +30,6 @@ public class Student {
 
     @Override
     public String toString() {
-        return id + " " + name + " " + gpa + " " + major;
+        return "ID: " + id + " | Name: " + name + " | GPA: " + gpa + " | Major: " + major;
     }
 }
